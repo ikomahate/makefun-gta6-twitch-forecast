@@ -167,3 +167,9 @@ Before any later submission, retain the original harness-recorded session logs
 and follow the rules' transcript/run-record and repository checks. No logs have
 been fabricated, and no account, wallet, network, or submission operations were
 performed during this build.
+
+## Make.fun Competition
+
+[![Bounty](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![Rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/ikomahate/makefun-gta6-twitch-forecast/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)
+[![Reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/ikomahate/makefun-gta6-twitch-forecast/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01)

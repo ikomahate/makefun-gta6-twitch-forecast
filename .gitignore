@@ -1,0 +1,16 @@
+__pycache__/
+.test-*/
+# Reproducible local data and evaluation artifacts; ship authored source only.
+out/
+analysis.json
+evaluation*.json
+experiments*.json
+runtime-check.json
+
+# Local evaluation artifacts
+analysis.json
+evaluation*.json
+experiments*.json
+runtime-check.json
+out/
+__pycache__/
